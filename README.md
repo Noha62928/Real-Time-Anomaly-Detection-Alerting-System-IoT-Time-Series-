@@ -22,7 +22,7 @@ The proposed architecture consists of five interconnected layers:
 - Temperature Sensor
 - Current Sensor
 
-Collects multiple physical measurements to monitor the operating condition of the electric motor.
+Collects multiple physical measurements to monitor the operating condition of the machine.
 
 **2. Data Acquisition Layer**
 - ESP32 Microcontroller
