@@ -6,7 +6,7 @@
 
 This project aims to develop an intelligent Industrial IoT system for real-time machine condition monitoring and anomaly detection.
 
-The system uses multiple sensors connected to an ESP32 microcontroller to continuously collect operational data from an electric motor, including vibration, acoustic signals, temperature, and electrical current.
+The system uses multiple sensors connected to an ESP32 microcontroller to continuously collect operational data from a machine, including vibration, acoustic signals, temperature, and electrical current.
 
 The collected data is transmitted to a Python-based backend, where it is processed, stored, and analyzed using Machine Learning techniques to detect abnormal operating patterns.
 
